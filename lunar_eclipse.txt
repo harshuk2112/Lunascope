@@ -1,0 +1,110 @@
+2000 | January 21 | 04:44 UTC | 3 hr 12 mins | Total | Europe, Africa, Asia, Australia
+2000 | July 16 | 11:56 UTC | 1 hr 47 mins | Total | Americas, Western Europe, Western Africa
+2000 | July 31 | 18:25 UTC | 2 hr 57 mins | Partial | Americas, Europe, Africa
+2000 | December 25 | 20:34 UTC | 4 hr 7 mins | Partial | Americas, Europe, Africa
+2001 | January 9 | 10:02 UTC | 1 hr 47 mins | Total | North & South America, Europe, Africa, Asia
+2001 | July 5 | 23:23 UTC | 1 hr 40 mins | Partial | Europe, Africa, Asia, Australia, Pacific
+2001 | December 30 | 05:15 UTC | 1 hr 58 mins | Penumbral | North & South America, Europe, Africa, Asia, Australia
+2002 | May 4 | 02:47 UTC | 1 hr 16 mins | Total | North & South America, Europe, Africa, Asia
+2002 | November 9 | 22:42 UTC | 1 hr 42 mins | Partial | Europe, Africa, Asia, Australia, Pacific
+2003 | May 16 | 21:03 UTC | 1 hr 27 mins | Total | North & South America, Europe, Africa, Asia, Pacific
+2003 | November 8 | 07:05 UTC | 1 hr 22 mins | Penumbral | North & South America, Europe, Africa, Asia
+2004 | May 4 | 08:12 UTC | 1 hr 2 mins | Total | North & South America, Europe, Africa, Asia
+2004 | October 28 | 18:04 UTC | 1 hr 30 mins | Penumbral | Europe, Africa, Asia, Australia, Pacific
+2005 | April 24 | 18:43 UTC | 1 hr 3 mins | Penumbral | North America, South America, Europe, Africa
+2005 | October 17 | 02:24 UTC | 1 hr 25 mins | Partial | Europe, Asia, Africa, Pacific
+2006 | May 4 | 06:12 UTC | 1 hr 20 mins | Penumbral | Europe, Africa, Asia, Australia
+2006 | October 7 | 03:52 UTC | 1 hr 5 mins | Partial | Europe, Africa, Asia, Australia, Pacific
+2007 | March 3 | 12:40 UTC | 1 hr 40 mins | Total | Europe, Africa, Asia, Pacific
+2007 | August 28 | 01:37 UTC | 1 hr 50 mins | Partial | Europe, Asia, Africa, North & South America
+2008 | February 21 | 06:26 UTC | 1 hr 17 mins | Penumbral | North & South America, Europe, Africa
+2008 | August 16 | 20:22 UTC | 1 hr 20 mins | Total | Europe, Asia, Africa, North & South America
+2009 | February 9 | 18:37 UTC | 1 hr 16 mins | Penumbral | North & South America, Europe, Africa, Asia
+2009 | July 7 | 12:12 UTC | 1 hr 6 mins | Total | Europe, Africa, Asia, Pacific
+2010 | June 26 | 04:40 UTC | 1 hr 40 mins | Penumbral | North & South America, Europe, Africa, Asia
+2010 | December 21 | 18:14 UTC | 1 hr 12 mins | Total | North & South America, Europe, Africa, Asia, Pacific
+2011 | June 15 | 18:14 UTC | 1 hr 40 mins | Total | North & South America, Europe, Africa, Asia
+2011 | December 10 | 05:31 UTC | 1 hr 5 mins | Penumbral | North & South America, Europe, Africa, Asia
+2012 | June 4 | 06:47 UTC | 1 hr 19 mins | Penumbral | North & South America, Europe, Africa, Asia
+2012 | November 28 | 13:35 UTC | 1 hr 39 mins | Partial | Asia, Australia, Pacific, North America
+2013 | April 25 | 05:09 UTC | 1 hr 13 mins | Total | North & South America, Europe, Africa, Asia
+2013 | October 18 | 21:50 UTC | 1 hr 13 mins | Penumbral | Europe, Africa, Asia, North America
+2014 | April 15 | 02:07 UTC | 1 hr 20 mins | Total | North & South America, Europe, Africa, Asia
+2014 | October 8 | 10:51 UTC | 1 hr 20 mins | Total | North & South America, Europe, Africa, Asia
+2015 | April 4 | 03:00 UTC | 1 hr 29 mins | Total | North & South America, Europe, Africa, Asia
+2015 | September 28 | 01:11 UTC | 1 hr 12 mins | Total | North & South America, Europe, Africa, Asia
+2016 | March 23 | 02:00 UTC | 1 hr 38 mins | Penumbral | North & South America, Europe, Africa, Asia
+2016 | August 18 | 02:26 UTC | 1 hr 57 mins | Penumbral | North & South America, Europe, Africa, Asia
+2017 | February 11 | 13:45 UTC | 1 hr 17 mins | Penumbral | Europe, Africa, Asia, Australia, Pacific
+2017 | August 7 | 19:22 UTC | 1 hr 6 mins | Partial | North & South America, Europe, Africa, Asia
+2018 | January 31 | 13:51 UTC | 1 hr 16 mins | Total | North & South America, Europe, Africa, Asia
+2018 | July 27 | 19:21 UTC | 1 hr 43 mins | Total | Europe, Africa, Asia, Australia
+2019 | January 21 | 05:12 UTC | 1 hr 2 mins | Total | North & South America, Europe, Africa, Asia
+2019 | July 16 | 18:43 UTC | 1 hr 43 mins | Partial | Europe, Africa, Asia, Australia, Pacific
+2020 | January 10 | 19:07 UTC | 1 hr 2 mins | Penumbral | North & South America, Europe, Africa, Asia
+2020 | June 5 | 18:45 UTC | 3 hrs 37 mins | Penumbral | Europe, Africa, Asia, Australia, North & South America
+2020 | November 30 | 08:42 UTC | 6 hrs 1 min | Penumbral | Europe, Africa, Asia, Australia, North & South America
+2021 | May 26 | 11:18 UTC | 14 mins | Total | Asia, Australia, Pacific, North America, South America
+2021 | November 19 | 08:02 UTC | 3 hrs 28 mins | Partial | North & South America, Europe, Africa, Asia, Pacific
+2022 | May 15 | 06:14 UTC | 1 hr 25 mins | Total | North & South America, Europe, Africa, Atlantic Ocean
+2022 | November 8 | 10:02 UTC | 1 hr 20 mins | Total | North & South America, Europe, Africa, Asia, Pacific
+2023 | May 5 | 18:14 UTC | 1 hr 17 mins | Total | Europe, Africa, Asia, Australia, Indian Ocean
+2023 | May 5 | 17:00 UTC | 4 hrs 19 mins | Penumbral | Europe, Africa, Asia, Australia, Indian Ocean
+2023 | November 5 | 04:59 UTC | 3 hrs 35 mins | Partial | North America, South America, Europe, Africa, Asia
+2024 | March 25 | 05:53 UTC | 4 hrs 44 mins | Penumbral | North/East Europe, Asia, Australia, Africa, Pacific, Atlantic, Indian Ocean
+2024 | September 18 | 02:45 UTC | 3 hrs 38 mins | Partial | Europe, Asia, Australia, Africa, North America, South America
+2025 | March 14 | 10:59 UTC | 5 hrs 2 mins | Total | Asia, Australia, Pacific, Americas
+2025 | September 7 | 00:12 UTC | 4 hrs 6 mins | Penumbral | Europe, Africa, Asia, Australia, South America
+2026 | May 4 | 01:14 UTC | 5 hrs 18 mins | Penumbral | North America, South America, Europe, Africa, Asia, Pacific, Atlantic, Indian Ocean
+2026 | October 28 | 05:56 UTC | 6 hrs 3 mins | Total | Europe, Africa, Asia, Pacific, Atlantic, Australia
+2027 | May 25 | 02:09 UTC | 5 hrs 13 mins | Penumbral | North America, South America, Europe, Africa, Asia, Pacific, Atlantic, Indian Ocean
+2027 | November 18 | 08:15 UTC | 6 hrs 2 mins | Total | Europe, Africa, Asia, Pacific, Australia
+2028 | May 15 | 07:51 UTC | 4 hrs 5 mins | Total | North & South America, Europe, Africa, Atlantic Ocean
+2028 | November 7 | 19:06 UTC | 3 hrs 28 mins | Partial | Europe, Africa, Asia, Australia, Pacific, Atlantic, Indian Ocean
+2029 | May 25 | 06:21 UTC | 3 hrs 12 mins | Penumbral | North & South America, Europe, Africa, Pacific Ocean, Atlantic Ocean
+2029 | November 18 | 04:02 UTC | 1 hr 59 mins | Total | North & South America, Europe, Africa, Asia, Pacific Ocean, Indian Ocean
+2030 | May 25 | 10:53 UTC | 1 hr 51 mins | Penumbral | North & South America, Europe, Africa, Atlantic Ocean
+2030 | November 8 | 13:58 UTC | 1 hr 57 mins | Total | North & South America, Europe, Africa, Asia, Pacific
+2031 | May 5 | 04:10 UTC | 1 hr 55 mins | Penumbral | North America, South America, Europe, Africa
+2031 | November 28 | 06:23 UTC | 1 hr 58 mins | Total | North & South America, Europe, Africa, Asia, Pacific
+2032 | May 24 | 10:14 UTC | 1 hr 30 mins | Penumbral | North & South America, Europe, Africa, Atlantic Ocean
+2032 | November 18 | 03:28 UTC | 1 hr 42 mins | Total | North & South America, Europe, Africa, Asia, Pacific
+2033 | May 14 | 00:04 UTC | 1 hr 20 mins | Partial | North & South America, Europe, Africa, Atlantic Ocean
+2033 | November 8 | 09:02 UTC | 1 hr 55 mins | Total | North & South America, Europe, Africa, Asia, Pacific
+2034 | May 25 | 02:42 UTC | 1 hr 15 mins | Penumbral | North & South America, Europe, Africa, Atlantic Ocean
+2034 | November 19 | 11:54 UTC | 1 hr 30 mins | Total | North & South America, Europe, Africa, Asia, Pacific
+2035 | May 14 | 06:55 UTC | 1 hr 30 mins | Penumbral | North & South America, Europe, Africa, Atlantic Ocean
+2035 | November 8 | 04:15 UTC | 1 hr 45 mins | Total | North & South America, Europe, Africa, Asia, Pacific
+2036 | April 25 | 17:12 UTC | 1 hr 24 mins | Penumbral | North & South America, Europe, Africa, Atlantic Ocean
+2036 | October 18 | 02:55 UTC | 1 hr 40 mins | Total | North & South America, Europe, Africa, Asia, Pacific
+2037 | March 14 | 04:05 UTC | 1 hr 47 mins | Penumbral | North & South America, Europe, Africa, Pacific Ocean
+2037 | September 7 | 00:19 UTC | 1 hr 59 mins | Total | Europe, Africa, Asia, Australia, Pacific Ocean
+2038 | March 2 | 08:34 UTC | 1 hr 44 mins | Penumbral | North America, South America, Europe, Africa, Atlantic Ocean
+2038 | August 27 | 04:52 UTC | 1 hr 33 mins | Partial | Europe, Africa, Asia, Australia, Pacific Ocean
+2039 | January 20 | 23:51 UTC | 1 hr 50 mins | Total | North America, South America, Europe, Africa, Atlantic Ocean
+2039 | June 16 | 06:44 UTC | 1 hr 35 mins | Penumbral | Europe, Africa, Asia, Australia, Indian Ocean
+2039 | December 13 | 13:03 UTC | 1 hr 23 mins | Partial | North America, South America, Europe, Africa, Pacific Ocean
+2040 | May 5 | 04:27 UTC | 1 hr 53 mins | Total | North & South America, Europe, Africa, Atlantic Ocean
+2040 | November 28 | 08:17 UTC | 1 hr 44 mins | Penumbral | Europe, Africa, Asia, Australia, Indian Ocean
+2041 | April 24 | 02:45 UTC | 1 hr 56 mins | Total | North & South America, Europe, Africa, Pacific Ocean
+2041 | October 17 | 16:56 UTC | 1 hr 38 mins | Penumbral | Europe, Africa, Asia, Australia, Indian Ocean
+2042 | March 13 | 20:19 UTC | 1 hr 35 mins | Total | North & South America, Europe, Africa, Atlantic Ocean
+2042 | September 7 | 09:14 UTC | 1 hr 50 mins | Partial | Asia, Australia, Pacific Ocean, Indian Ocean
+2043 | February 4 | 02:36 UTC | 1 hr 24 mins | Total | North & South America, Europe, Africa, Atlantic Ocean
+2043 | August 28 | 07:52 UTC | 1 hr 45 mins | Penumbral | Europe, Africa, Asia, Australia, South America
+2044 | May 6 | 08:18 UTC | 4 hrs 12 mins | Penumbral | North America, Europe, Africa, Asia, Pacific
+2044 | October 28 | 06:37 UTC | 1 hr 59 mins | Total | North & South America, Europe, Africa, Pacific
+2045 | April 24 | 11:51 UTC | 5 hrs 15 mins | Total | North & South America, Europe, Africa, Pacific, Atlantic
+2045 | October 17 | 05:22 UTC | 4 hrs 32 mins | Penumbral | Europe, Africa, Asia, Pacific
+2046 | April 14 | 00:14 UTC | 3 hrs 56 mins | Partial | North & South America, Europe, Africa, Asia
+2046 | October 8 | 15:03 UTC | 4 hrs 19 mins | Total | North & South America, Europe, Africa, Asia, Pacific
+2047 | March 25 | 02:52 UTC | 4 hrs 07 mins | Penumbral | North & South America, Europe, Africa, Asia, Pacific
+2047 | September 17 | 06:16 UTC | 3 hrs 38 mins | Partial | Europe, Africa, Asia, Australia, North America
+2048 | March 14 | 19:40 UTC | 5 hrs 13 mins | Total | North & South America, Europe, Africa, Asia
+2048 | September 7 | 15:28 UTC | 3 hrs 22 mins | Penumbral | North & South America, Europe, Africa, Asia, Australia
+2049 | March 4 | 07:32 UTC | 3 hrs 50 mins | Total | North & South America, Europe, Africa, Asia, Pacific Ocean
+2049 | August 28 | 22:52 UTC | 4 hrs 13 mins | Penumbral | Europe, Africa, Asia, Australia, North America
+2050 | January 19 | 06:17 UTC | 3 hrs 8 mins | Total | North & South America, Europe, Africa, Asia
+2050 | June 6 | 20:47 UTC | 3 hrs 37 mins | Partial | Europe, Africa, Asia, Australia
+2050 | November 14 | 10:57 UTC | 4 hrs 1 min | Total | North & South America, Europe, Africa, Asia
+
